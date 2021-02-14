@@ -14,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/JSONStream" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/loose-envify" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/architect/builders/noop-schema.d.ts" beforeDir="false" />
@@ -9348,7 +9347,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.google.cloudcode.ide_session_index" value="20210214_0002" />
+    <property name="com.google.cloudcode.ide_session_index" value="20210214_0003" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../customer-relationship-manager" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -9457,7 +9456,7 @@
       <workItem from="1613240009065" duration="607000" />
       <workItem from="1613241366490" duration="4111000" />
       <workItem from="1613279777508" duration="2248000" />
-      <workItem from="1613328486992" duration="3361000" />
+      <workItem from="1613328486992" duration="3915000" />
     </task>
     <task id="LOCAL-00001" summary="Add bootstrap">
       <created>1601404586630</created>
