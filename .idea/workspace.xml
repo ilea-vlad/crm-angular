@@ -12,6 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9423c31a-d9eb-4d78-b478-eace67b082ab" name="Default Changelist" comment="Add security layer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ini/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ini/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +167,7 @@
       <workItem from="1613240009065" duration="607000" />
       <workItem from="1613241366490" duration="4111000" />
       <workItem from="1613279777508" duration="2248000" />
-      <workItem from="1613328486992" duration="4979000" />
+      <workItem from="1613328486992" duration="5294000" />
     </task>
     <task id="LOCAL-00001" summary="Add bootstrap">
       <created>1601404586630</created>
